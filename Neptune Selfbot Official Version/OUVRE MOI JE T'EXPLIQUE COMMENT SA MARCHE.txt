@@ -1,0 +1,9 @@
+1 : Pour ouvrir un fichier Py [Python] Tu doit tout d'abord installé python
+
+2 : Puis tu doit ouvrir le fichier Install.bat pour installé les Modules du fichier
+
+3 : Si quand tu installe ou tu veut installé manuellement avec la commandes [PIP], Sa te met Un message d'erreur avec
+" pip n'est pas reconnu en tant que commande interne " Tu doit regardé cette vidéo pour résoudre le problème la vidéo explique bien
+https://www.youtube.com/watch?v=pjCWtppLN3k
+
+
